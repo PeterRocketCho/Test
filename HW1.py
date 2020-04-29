@@ -1,4 +1,4 @@
-### MDP Value Iteration and Policy Iteration
+### HW1 Code
 
 import numpy as np
 import time
